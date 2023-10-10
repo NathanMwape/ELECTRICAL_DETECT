@@ -1274,14 +1274,14 @@ body {
     padding: 1.5rem
 }
 
-.card-content hr {
+.card-content{
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
-    margin-left: -1.5rem;
-    margin-right: -1.5rem
+    margin-left: -1.2rem;
+    margin-right: -1.2rem
 }
 
-.card.empty .card-content {
+.card .empty .card-content {
     padding-top: 3rem;
     padding-bottom: 3rem;
     text-align: center;
